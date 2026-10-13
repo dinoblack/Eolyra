@@ -1,0 +1,53 @@
+/* Menu */
+"Headphones" = "Fone";
+"Mute headphones" = "Silenciar fone";
+"Microphone" = "Microfone";
+"Extra mic gain" = "Ganho extra do mic";
+"Mute microphone" = "Silenciar microfone";
+"Use Eolyra as default when connected" = "Usar Eolyra como padrão ao conectar";
+"Open at login" = "Abrir ao iniciar sessão";
+"Equalizer…" = "Equalizador…";
+"Equalizer: %@…" = "Equalizador: %@…";
+"Equalizer (off)…" = "Equalizador (desligado)…";
+"Crossfeed" = "Crossfeed";
+"Crossfeed: %@" = "Crossfeed: %@";
+"Blends the bass between sides, like speakers do," = "Mistura os graves entre os lados, como em caixas de som,";
+"reducing fatigue on long listening sessions." = "e reduz o cansaço de ouvir por muito tempo.";
+"Set Eolyra as default now" = "Definir Eolyra como padrão agora";
+"Sound Settings…" = "Ajustes de Som…";
+"Quit" = "Sair";
+
+/* Status */
+"Drivers not installed (run scripts/install.sh)" = "Drivers não instalados (rode scripts/install.sh)";
+"Disconnected — plug in the USB adapter" = "Desconectado — conecte o adaptador USB";
+"Connected" = "Conectado";
+"headphones active" = "fone ativo";
+"mic active" = "mic ativo";
+"error: %@" = "erro: %@";
+
+/* Equalizador */
+"Equalizer — Eolyra" = "Equalizador — Eolyra";
+"Enable equalizer" = "Ativar equalizador";
+"Reset" = "Zerar";
+"Preset:" = "Preset:";
+"The EQ applies to audio played through the “Eolyra” device. The presets take advantage of the headset’s planar magnetic drivers, which handle bass boost with little distortion." = "O EQ é aplicado ao áudio que passa pelo dispositivo “Eolyra”. Os presets aproveitam os drivers planar magnéticos do headset, que reforçam graves com pouca distorção.";
+"A built-in limiter prevents clipping without lowering the overall volume." = "Um limitador automático evita distorção sem abaixar o volume geral.";
+"Flat" = "Plano";
+"Bass" = "Graves";
+"Games (footsteps)" = "Jogos (passos)";
+"Music" = "Música";
+"Movies" = "Filmes";
+"Voice / calls" = "Voz / chamadas";
+"Custom" = "Personalizado";
+
+/* Crossfeed */
+"Off" = "Desligado";
+"Light" = "Leve";
+"Medium" = "Médio";
+"Strong" = "Forte";
+
+/* Erros */
+"Failed to %@ (OSStatus %d)" = "Falha ao %@ (OSStatus %d)";
+"create aggregate device" = "criar o aggregate device";
+"create IOProc" = "criar o IOProc";
+"start IO" = "iniciar o IO";

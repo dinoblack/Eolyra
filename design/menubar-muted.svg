@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+  <!-- Variante silenciada: lira sem cordas + traço diagonal. -->
+  <path d="M15.5 32 C10 31.5 7 27 8 21.5 C8.7 17.5 11.2 15.4 9.8 11.5 C9.4 10.4 8.5 9.8 7.5 9.6" fill="none" stroke="#000" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M20.5 32 C26 31.5 29 27 28 21.5 C27.3 17.5 24.8 15.4 26.2 11.5 C26.6 10.4 27.5 9.8 28.5 9.6" fill="none" stroke="#000" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M15 32.2 H21" stroke="#000" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M10.8 14 H25.2" stroke="#000" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M12.5 29.5 L23.5 17.5" stroke="#000" stroke-width="2.6" stroke-linecap="round"/>
+</svg>

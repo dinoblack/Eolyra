@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Eolyra — ícone do app: lira clássica cujas cordas são barras de nível. Grade macOS: corpo 824×824 em (100,100). -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4347E8"/><stop offset="1" stop-color="#15133F"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.12" r="0.75"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.18"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#3FD2FF"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+  </defs>
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#bg)"/>
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#glow)"/>
+  <path d="M452 772 C330 762 262 660 282 540 C298 446 356 396 322 318 C312 296 292 282 270 278" fill="none" stroke="#FFFFFF" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M572 772 C694 762 762 660 742 540 C726 446 668 396 702 318 C712 296 732 282 754 278" fill="none" stroke="#FFFFFF" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M440 776 H584" stroke="#FFFFFF" stroke-width="58" stroke-linecap="round"/>
+  <path d="M336 388 H688" stroke="#FFFFFF" stroke-width="40" stroke-linecap="round"/>
+  <rect x="402" y="618" width="34" height="132" rx="17" fill="url(#bar)"/>
+  <rect x="464" y="548" width="34" height="202" rx="17" fill="url(#bar)"/>
+  <rect x="526" y="478" width="34" height="272" rx="17" fill="url(#bar)"/>
+  <rect x="588" y="424" width="34" height="326" rx="17" fill="#FFFFFF" fill-opacity="0.28"/>
+</svg>
